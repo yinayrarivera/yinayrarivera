@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>NOVA Lab</b>
-  - [Cybersecurity lab]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://www.pbs.org/wgbh/nova/labs//lab/cyber/research#/corp/battle/network/complete))
+  - [Cybersecurity lab]((https://www.pbs.org/wgbh/nova/labs//lab/cyber/research#/corp/battle/network/complete))
  
 <h2>📄 Certifications: <h2>
 
