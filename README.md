@@ -12,3 +12,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+- <b> Linkedin </b> https://www.linkedin.com/in/yinayra-rivera-5781a5297/
+
