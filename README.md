@@ -4,7 +4,7 @@
 
 - <b>NOVA Lab</b>
   - Cybersecurity Lab https://www.pbs.org/wgbh/nova/labs//lab/cyber/research#/corp/battle/network/complete
-  - Lab Report https://www.pbs.org/wgbh/nova/labs/lab/cyber/report-card/
+  - Lab Report [https://www.pbs.org/wgbh/nova/labs/lab/cyber/report-card/](https://www.pbs.org/wgbh/nova/labs/lab/cyber/report-card/)
  
 <h2>📄 Certifications: <h2>
 
