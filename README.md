@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>NOVA Lab</b>
-  - Cybersecurity Lab https://www.pbs.org/wgbh/nova/labs//lab/cyber/research#/corp/battle/network/complete
+  - Cybersecurity Lab [https://www.pbs.org/wgbh/nova/labs//lab/cyber/research#/corp/battle/network/complete](https://www.pbs.org/wgbh/nova/labs//lab/cyber/research#/corp/battle/network/complete)
   - Lab Report [https://www.pbs.org/wgbh/nova/labs/lab/cyber/report-card/](https://www.pbs.org/wgbh/nova/labs/lab/cyber/report-card/)
  
 <h2>📄 Certifications: <h2>
